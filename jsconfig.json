@@ -1,0 +1,14 @@
+
+{
+	"compilerOptions": {
+		"target": "es2020",
+		"baseUrl": "./src",
+		"paths": {
+			"@scss": ["scss"],
+			"scss": ["scss"],
+			"js": ["js"],
+			"images": ["images"]
+		}
+	},
+	"include": ["src/**/*"]
+}
